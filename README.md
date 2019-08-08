@@ -10,7 +10,7 @@ AppIntro is an Android Library that helps you make a **cool intro** for your app
 
 *Watch the [demo video](https://www.youtube.com/watch?v=-KgAAbZz248) on YouTube*
 
-## Usage
+## Usage 1
 
 ### Basic usage
 
